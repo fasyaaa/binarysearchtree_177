@@ -30,12 +30,6 @@ public:
 		newNode->info = element;	//Assign value to the data field of the new node
 		newNode->leftchild = NULL;	//Make the left chield of the new node point to NULL
 
-
-
-
-
-
-		asjfiojasoidufulh
 	}
 
 };
